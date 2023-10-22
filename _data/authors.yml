@@ -1,0 +1,38 @@
+lsolesen:
+  name: "Lars Olesen"
+  bio: "Højskolelærer på Vejle Idrætshøjskole siden 1999 og siden 2013 viceforstander."
+  avatar: "/assets/images/authors/lars-olesen.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lars@vih.dk"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lsolesen/"
+  featured: true
+ole_damgaard:
+  name: "Ole Damgaard"
+  bio: "Forstander på Vejle Idrætshøjskole fra 2010 og indtil nu."
+  avatar: "/assets/images/authors/ole-damgaard.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ole@vih.dk"
+  featured: true
+martin_madsen:
+  name: "Martin Madsen"
+  bio: "Højskolelærer og ansvarlig for testcenteret på Vejle Idrætsskoler."
+  avatar: "/assets/images/authors/martin-madsen.jpg"
+  featured: true
+martin_olsen:
+  name: "Martin Olsen"
+  bio: "Højskolelærer på Vejle Idrætshøjskole."
+  avatar: "https://www.vih.dk/sites/vih/files/styles/medium/public/laerere-32_0.jpg?itok=duMB0SOi"
+thea_henriksen:
+  name: "Thea Storm Henriksen"
+  bio: "Elev i foråret 2000 og højskolelærer på Vejle Idrætshøjskole siden 2009."
+  avatar: "/assets/images/authors/thea-storm-henriksen.png"
+mika_lund:
+  name: "Mika Lund"
+  bio: "Højskolelærer på Vejle Idrætshøjskole siden 2001."
+  avatar: "/assets/images/authors/mika-lund.png"

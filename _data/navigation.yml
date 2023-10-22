@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Start"
+    url: /start/
+  - title: "Arkiv"
+    url: /arkiv/
+  - title: "Download"
+    url: /download/
+  - title: "FAQ"
+    url: /faq/
+  - title: "Om"
+    url: /om/

@@ -1,0 +1,49 @@
+<link rel="manifest" type="application/manifest+json" href="{{ "/manifest.json" | relative_url }}">
+
+{% include head/favicon.html %}
+
+{% if page.sitemap == false or page.robots %}
+  <meta name="robots" content="{{ page.robots | default: "noindex" }}">
+{% endif %}
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+
+<meta name="DC.Title" content="{{ page.title }}">
+<meta name="DC.Creator" content="{{ author.name }}">
+{% if page.source %}
+  <meta name="DC.Source" content="{{ page.source }}">
+{% endif %}
+<meta name="DC.Description" content="{{ page.excerpt | strip_html }} - Fra: {{ site.title }}">
+{% if page.publisher %}
+  <meta name="DC.Publisher" content="{{ page.publisher }}">
+{% else %}
+  <meta name="DC.Publisher" content="{{ site.name }}">
+{% endif %}
+{% if page.type %}
+  <meta name="DC.Type" content="{{ page.type }}">
+{% endif %}
+<meta name="DC.Format" content="text/html">
+<meta name="DC.Language" content="da">
+<meta name="DC.Rights" content="All rights reserved">
+
+<script>
+// Check compatibility for the browser we're running this in
+if ("serviceWorker" in navigator) {
+  if (navigator.serviceWorker.controller) {
+    console.log("[{{ site.title }}] active service worker found, no need to register");
+  } else {
+    // Register the service worker
+    navigator.serviceWorker
+      .register("{{ '/pwabuilder-sw.js' | relative_url }}", {
+        scope: "./"
+      })
+      .then(function (reg) {
+        console.log("[{{ site.title }}] Service worker has been registered for scope: " + reg.scope);
+      });
+  }
+}
+</script>
