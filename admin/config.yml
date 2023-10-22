@@ -3,7 +3,7 @@ backend:
   repo: lsolesen/mit-vih-jekyll
   branch: master
   api_root: https://api.github.com
-  site_domain: mitvih.netlify.app
+  site_domain: mit-vih.netlify.app
   base_url: https://api.netlify.com
   auth_endpoint: auth
   cms_label_prefix: netlify-cms/
