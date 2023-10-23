@@ -53,3 +53,9 @@ Fordi målgruppen var ældre, og fordi mit fokus var karrierevejledning, valgte 
 Derefter brugte jeg principperne fra Fælles Narrativ Tidslinje, hvor deltagerne skulle arbejde sammen om at færdiggøre et fælles dokument med udgangspunkt i ligheder og forskelle ved deres livstræer. Derefter skulle de sammen overveje, hvem og hvordan andre udenfor gruppen kunne få glæde af deres fælles dokument.
 
 Til sidst sluttede vi af med uddeling af personlige certifikater under klaverakkompagnement og klapsalver.
+
+*﻿**
+
+#﻿# Eksempel på certifikat - uddrag
+
+Certifikat79 Det bekræftes hermed, at Rasmus Hansen har deltaget i: ”Workshop om Kollektiv Narrativ Praksis” på højskole C. Ud over aktiv deltagelse har Rasmus i særlig grad bidraget med en fin tegning af sit livstræ og beskrivelse af, hvordan han på samme tid er udadvendt og indadvendt og om, hvordan han elsker at fordybe sig.
