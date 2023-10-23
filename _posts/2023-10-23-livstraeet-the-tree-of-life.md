@@ -3,6 +3,8 @@ title: Livstræet - the tree of life
 author: lsolesen
 excerpt: Livstræet er en kollektiv vejledningsform.
 toc: false
+header:
+  teaser: https://images.unsplash.com/photo-1460518451285-97b6aa326961?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&h=300&w=400&q=10
 ---
 Oprindeligt er metoden udviklet af Ncazelo Ncube med henblik på afrikanske børn, som har mistet forældre og andre primære personer pga. HIV/AIDS og som følge deraf ofte lever under forhold præget af utryghed, vold og misbrug (Ncube 2006, 2007).
 
@@ -20,19 +22,19 @@ Metoden går ud på, at en gruppe store børn har en workshopdag sammen, som bli
 
 Workshoppen består af fire dele: 
 
-1) Livstræet
-2) Livsskoven
-3) Når stormene kommer
-4) Certifikater og sange
+1. Livstræet
+2. Livsskoven
+3. Når stormene kommer
+4. Certifikater og sange
 
 I første del af workshoppen skal hver person tegne sit liv som et træ med rod, stamme, grene, blade, frugter og jord (’ground’). Hver del af træet repræsenterer forskellige aspekter af børnenes liv: 
 
-- Rødderne: Hvor personen kommer fra (by, landsdel, land), favoritstedet hjemme. Personens familiehistorie (oprindelse, familienavn, forfædre, udvidet familie). En sang eller en dans hvor personen kommer fra.
-- Jorden: Repræsenterer hvor man bor nu, hvad man gør hver dag: små, almindelige ting.
-- Stammen: Personens færdigheder. Udvides med: Hvor kommer færdigheden fra? Hvem har du lært det af?
-- Grenene: Personens håb, (fremtids-)drømme og ønsker. Hvor kommer de fra?
-- Bladene: Vigtige personer eller figurer i personens liv (døde og levende, helte, tegneseriefigurer, personer, man ser op til, etc.).
-- Frugterne: Gaver, personerne har fået. Kan både være af materiel og ikkemateriel art (fx venlighed, kærlighed el.lign.).
+- **Rødderne**: Hvor personen kommer fra (by, landsdel, land), favoritstedet hjemme. Personens familiehistorie (oprindelse, familienavn, forfædre, udvidet familie). En sang eller en dans hvor personen kommer fra.
+- **Jorden**: Repræsenterer hvor man bor nu, hvad man gør hver dag: små, almindelige ting.
+- **Stammen**: Personens færdigheder. Udvides med: Hvor kommer færdigheden fra? Hvem har du lært det af?
+- **Grenene**: Personens håb, (fremtids-)drømme og ønsker. Hvor kommer de fra?
+- **Bladene**: Vigtige personer eller figurer i personens liv (døde og levende, helte, tegneseriefigurer, personer, man ser op til, etc.).
+- **Frugterne**: Gaver, personerne har fået. Kan både være af materiel og ikkemateriel art (fx venlighed, kærlighed el.lign.).
 
 Under første del sidder børnene i samme rum og tegner hver for sig. Når deltagerne er færdige med at tegne og skrive på deres livstræ, inviteres de til at hænge deres træ op på væggen sammen med de andres livstræer.
 
@@ -54,8 +56,16 @@ Derefter brugte jeg principperne fra Fælles Narrativ Tidslinje, hvor deltagerne
 
 Til sidst sluttede vi af med uddeling af personlige certifikater under klaverakkompagnement og klapsalver.
 
-*﻿**
+***
 
-#﻿# Eksempel på certifikat - uddrag
+## Eksempel på certifikat - uddrag
 
-Certifikat79 Det bekræftes hermed, at Rasmus Hansen har deltaget i: ”Workshop om Kollektiv Narrativ Praksis” på højskole C. Ud over aktiv deltagelse har Rasmus i særlig grad bidraget med en fin tegning af sit livstræ og beskrivelse af, hvordan han på samme tid er udadvendt og indadvendt og om, hvordan han elsker at fordybe sig.
+***
+
+**Certifikat** Det bekræftes hermed, at Rasmus Hansen har deltaget i: ”Workshop om Kollektiv Narrativ Praksis” på højskole C. Ud over aktiv deltagelse har Rasmus i særlig grad bidraget med en fin tegning af sit livstræ og beskrivelse af, hvordan han på samme tid er udadvendt og indadvendt og om, hvordan han elsker at fordybe sig.
+
+***
+
+## Referencer
+
+Valgreen, Helle. “Refleksion og fællesskab - kollektiv narrativ praksis i karrierevejledningen”. Aarhus Universitet, 2013. <https://pure.au.dk/ws/files/65238743/PhD_afhandling_Helene_Valgreen_2013.pdf>.
