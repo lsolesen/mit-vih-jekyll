@@ -12,6 +12,8 @@ tags:
   - vejledning
   - featured
 last_modified_at: 2022-06-20T20:50:27Z
+author: lsolesen
+toc: true
 ---
 
 Søger du inspiration til at lave vejledning i fællesskaber? Jeg er optaget af gruppevejledning, og jeg brugte FFAST-modellen til at lave et vejledningsforløb i grupper.
