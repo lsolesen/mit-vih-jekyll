@@ -8,11 +8,6 @@ on:
     branches:
       - master
 
-permissions:
-  pull-requests: write
-  issues: write
-  repository-projects: write
-
 env:
   RUBY_VERSION: "3.1.2"
   BUNDLER_VERSION: "2.3.25"
